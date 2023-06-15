@@ -2,8 +2,8 @@
 #include <string.h>
 #include <unistd.h>
 /**
- * main - the starting point of the program
- * Return: 1 Always
+ * main - main block
+ * Return: 1
  */
 int main(void)
 {
