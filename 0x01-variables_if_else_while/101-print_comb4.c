@@ -14,7 +14,7 @@ int main(void)
 		o = (m / 10) % 10;
 		p = m % 10;
 
-		if (n < o && o < 1)
+		if (n < o && o < p)
 		{
 			putchar(n + '0');
 			putchar(o + '0');
