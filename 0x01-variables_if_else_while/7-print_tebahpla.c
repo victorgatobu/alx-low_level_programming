@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main function - program starts here
+ * main - program starts here
  * program to print lowercase alphabet in reverse
- * main function returns 0
+ * Return: 0
  */
 int main(void)
 {
