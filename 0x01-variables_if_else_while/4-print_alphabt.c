@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * the main function for the program
+ * main - start for the program
  * program to print lowercase letter apart from q and e
- * the main function returns 0
+ * Return: 0
  */
 int main(void)
 {
