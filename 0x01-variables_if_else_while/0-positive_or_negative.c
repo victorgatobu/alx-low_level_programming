@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - start
+ * main - program start
  * program to print positive of negative numbers
- * returns 0
+ * return - main returns 0
  */
 int main(void)
 {
