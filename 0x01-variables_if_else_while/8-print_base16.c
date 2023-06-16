@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main function - program start
+ * main - program start
  * program prints all numbers of base 16 in lowercase
- * main function returns 0
+ * Return: 0
  */
 int main(void)
 {
