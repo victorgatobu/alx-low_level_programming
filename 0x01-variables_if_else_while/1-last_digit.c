@@ -1,8 +1,11 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* add more headers here  */
-
-/* betty syle document for function main goes here  */
+/**
+ * main - program start
+ * program to print last digits
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
