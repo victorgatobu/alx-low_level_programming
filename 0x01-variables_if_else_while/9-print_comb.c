@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main function - starting point
+ * main - starting point
  * program to print all possible combinations of single digit numbers
- * main function returns 0
+ * Return: 0
  */
 int main(void)
 {
