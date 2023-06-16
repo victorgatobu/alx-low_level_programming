@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * the main function - program start
+ * main - program start
  * program to print all single digit numbers using putchar
- * main returns 0
+ * Return: 0
  */
 int main(void)
 {
@@ -12,6 +12,7 @@ int main(void)
 	{
 		putchar(n + '0');
 	}
+	putchar('\n');
 
 	return (0);
 }
