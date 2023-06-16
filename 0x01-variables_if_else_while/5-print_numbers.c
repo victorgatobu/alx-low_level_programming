@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * the main function - start of program
+ * main - start of program
  * program to print single digit numbers
- * main function returns 0
+ * Return: 0
  */
 int main(void)
 {
