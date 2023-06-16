@@ -1,12 +1,11 @@
 #include <stdio.h>
 /**
- * first we have main function for the program
+ * main - start for the program
  * program to print alphabet in lowercase then uppercase
- * the main function returns 0
+ * Return: 0
  */
 int main(void)
 {
-
 	char a = 'a';
 
 	while (a <= 'z')
