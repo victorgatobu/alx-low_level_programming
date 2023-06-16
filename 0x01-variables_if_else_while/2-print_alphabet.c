@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * the main block of the code
+ * main - program start
  * print the alphabet in lowercase
- * the program should return 0
+ * Return: 0
  */
 int main(void)
 {
