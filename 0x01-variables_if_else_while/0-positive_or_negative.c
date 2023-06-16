@@ -4,7 +4,7 @@
 /**
  * main - program start
  * program to print positive of negative numbers
- * return - main returns 0
+ * Return: 0
  */
 int main(void)
 {
