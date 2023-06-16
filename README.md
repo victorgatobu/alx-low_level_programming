@@ -1,1 +1,1 @@
-This file contain low level programming project in c
+This file contains low-level programming projects in c
