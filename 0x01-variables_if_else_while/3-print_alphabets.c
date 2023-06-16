@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 /**
  * first we have main function for the program
  * program to print alphabet in lowercase then uppercase
